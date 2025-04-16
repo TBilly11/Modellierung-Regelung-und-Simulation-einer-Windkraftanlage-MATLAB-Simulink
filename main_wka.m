@@ -1,0 +1,1 @@
+FT=1/2*para_mdl.rho*para_mdl.R*para_mdl.R*3.1415*0.8*12^2;
