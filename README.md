@@ -23,3 +23,25 @@ sondern auch fortschrittliche Regelungssysteme, die sicherstellen, dass die Anla
 funktioniert und gleichzeitig vor extremen Bedingungen geschützt ist. Der folgende Plan gibt 
 einen Überblick über die Schritte, die im Rahmen dieses Projekts unternommen werden, um 
 eine effiziente Modellierung und Regelung der 5-MW-Windenergieanlage zu erreichen.  
+
+<br />
+<h2>2 Tragflügeltheorie </h2>
+
+Die Stromröhrentheorie liefert keine Informationen über die Beziehung zwischen 
+Rotordrehzahl und Rotorleistung. Diese Verbindung wird nun durch die Tragflügeltheorie 
+erklärt. Zunächst werden die Prinzipien des Auftriebs und des Widerstands erläutert. Beim 
+Widerstandsprinzip wird die Verzögerung des Windes genutzt, um einen Widerstand oder eine 
+Schubkraft zu erzeugen. Beim Auftriebsprinzip wird der Wind (Anströmung) an der 
+Anprallfläche umgelenkt. Dies führt zu unterschiedlichen Strömungsgeschwindigkeiten vor 
+und nach der Fläche, was wiederum eine Auftriebskraft erzeugt 
+Bevor wir uns den Rotorblättern der Windenergieanlage zuwenden, wird in dieser Theorie die 
+Tragflügeltheorie anhand von Tragflügeln erläutert. Der Unterschied zwischen einem 
+Tragflügel und einem Rotorblatt ist gering. Während man bei einem Tragflügel darauf abzielt, 
+dass er in der Luft bleibt, strebt man bei einem Rotorblatt dieselben Effekte an, jedoch mit dem 
+Ziel einer Rotation. Zudem weist ein Rotorblatt eine andere Form auf als ein Tragflügel.  
+<br />
+<br />
+<img src="https://i.imgur.com/2hA6aSt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+ 
