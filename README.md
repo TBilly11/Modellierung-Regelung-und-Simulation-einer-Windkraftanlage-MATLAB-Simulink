@@ -41,7 +41,7 @@ dass er in der Luft bleibt, strebt man bei einem Rotorblatt dieselben Effekte an
 Ziel einer Rotation. Zudem weist ein Rotorblatt eine andere Form auf als ein Tragflügel.  
 <br />
 <br />
-<img src="https://i.imgur.com/2hA6aSt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2hA6aSt.png" style="max-width:100%; height:auto; display:block; margin:auto;" alt="Disk Sanitization Steps"/>
 <br />
 
  
